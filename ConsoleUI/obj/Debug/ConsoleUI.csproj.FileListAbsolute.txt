@@ -1,0 +1,7 @@
+c:\users\kona\documents\visual studio 2015\Projects\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\kona\documents\visual studio 2015\Projects\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\kona\documents\visual studio 2015\Projects\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\kona\documents\visual studio 2015\Projects\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.Properties.Resources.resources
+c:\users\kona\documents\visual studio 2015\Projects\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.GenerateResource.Cache
+c:\users\kona\documents\visual studio 2015\Projects\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\kona\documents\visual studio 2015\Projects\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.pdb
